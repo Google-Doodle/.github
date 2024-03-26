@@ -1,6 +1,6 @@
 # Well, hello!
 Welcome to the go-to hub for Google Doodles!
-![Logo](logo.png)
+![Logo](./.github/profilelogo.png)
 |Game|Do we have it?|
 |-|-|
 |[Kids Coding (Coding for Carrots)](https://github.com/Google-Doodle/kids-coding)|Yes|
